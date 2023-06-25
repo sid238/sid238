@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Suraj 
-- 👀 I’m interested in Gamming, Modding and Putting 
-- 🌱 I’m currently learning How to Nading in Garena 
-- 💞️ I’m looking to collaborate on GitHub and Garena 
-- 📫 How to reach me https://wa.me/919142294671
+- 👋 Hi, I’m SID
+- 👀 I’m interested in EVERYTHING
+- 🌱 I’m currently learning PYTHON & JAVA 
+- 💞️ I’m looking to collaborate on I CAN'T INTERESTED
+- 📫 How to reach me NO WAY
 
 <!---
 sid238/sid238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
